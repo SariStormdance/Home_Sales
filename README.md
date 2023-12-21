@@ -1,8 +1,6 @@
 # Home_Sales
 
-In this challenge, knowledge of SparkSQL will be used to determine key metrics about home sales data. Then to use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
-
-This project was completed with Spark using Google Colab.
+In this challenge, knowledge of SparkSQL will be used to determine key metrics about home sales data. Then to use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached. This is a demonstration of how caching data can increase speed and perfomance of data retrieval by reducing the need to access underlying storage layer. 
 
 ## Resources
 
